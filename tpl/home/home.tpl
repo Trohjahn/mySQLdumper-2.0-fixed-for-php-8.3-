@@ -15,7 +15,7 @@
 
 <h6>{L_VERSIONSINFORMATIONEN}</h6>
 <img src="css/{THEME}/pics/loveyourdata.gif" align="right" alt="love your data" title="love your data">
-{L_MSD_VERSION}: <strong>{MSD_VERSION}</strong><br>
+{L_MSD_VERSION}: <strong>2.0 by Marc @ trohnet.de fixed for php 8.3</strong><br>
 {L_OS}: <strong>{OS}</strong> ({OS_EXT})<br>
 {L_MYSQL_VERSION}: <strong>{MYSQL_VERSION}</strong><br>
 {L_PHP_VERSION}: <strong>{PHP_VERSION}</strong>&nbsp;&nbsp;{L_MEMORY}: <strong>{MEMORY}</strong>&nbsp;&nbsp;
